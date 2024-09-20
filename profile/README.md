@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Vitorm
-
 **Vitorm** is an open-source, lightweight ORM (Object-Relational Mapper) designed to combine the simplicity of Dapper with the advanced functionality of Entity Framework. It provides seamless database integrations with SQL Server, MySQL, SQLite, ClickHouse, and Elasticsearch, making it ideal for developers who need both performance and ease of use.
 
 With Vitorm, you can interact with databases using a streamlined API while enjoying rich features like transactions, dynamic queries, and type-safe interactions—all with minimal overhead.
@@ -19,7 +17,7 @@ With Vitorm, you can interact with databases using a streamlined API while enjoy
 | MongoDB       |   ×   | [MongoDB](https://github.com/Vit-Orm/Vitorm.MongoDB)     |  [![](https://img.shields.io/nuget/v/Vitorm.MongoDB.svg)](https://www.nuget.org/packages/Vitorm.MongoDB) ![](https://img.shields.io/nuget/dt/Vitorm.MongoDB.svg)   |
 | PostgreSQL    |   ×   | [PostgreSQL](https://github.com/Vit-Orm/Vitorm.PostgreSQL)     |  [![](https://img.shields.io/nuget/v/Vitorm.PostgreSQL.svg)](https://www.nuget.org/packages/Vitorm.PostgreSQL) ![](https://img.shields.io/nuget/dt/Vitorm.PostgreSQL.svg)   |
 | Redis         |   ×   |      |      |
-| Excel         |   ×   | [Excel](https://github.com/Vit-Orm/Vitorm.Excel)     |  [![](https://img.shields.io/nuget/v/Vitorm.Excel.svg)](https://www.nuget.org/packages/Vitorm.Excel) ![](https://img.shields.io/nuget/dt/Vitorm.Excel.svg)   |
+| Excel         |   √   | [Excel](https://github.com/Vit-Orm/Vitorm.Excel)     |  [![](https://img.shields.io/nuget/v/Vitorm.Excel.svg)](https://www.nuget.org/packages/Vitorm.Excel) ![](https://img.shields.io/nuget/dt/Vitorm.Excel.svg)   |
 | File          |   ×   |      |      |
 | Memory        |   ×   |      |      |
 | Oracle        |   ×   |      |      |
