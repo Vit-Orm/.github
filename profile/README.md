@@ -18,7 +18,7 @@ With Vitorm, you can interact with databases using a streamlined API while enjoy
 | PostgreSQL    |   ×   | [PostgreSQL](https://github.com/Vit-Orm/Vitorm.PostgreSQL)     |  [![](https://img.shields.io/nuget/v/Vitorm.PostgreSQL.svg)](https://www.nuget.org/packages/Vitorm.PostgreSQL) ![](https://img.shields.io/nuget/dt/Vitorm.PostgreSQL.svg)   |
 | Redis         |   ×   |      |      |
 | Excel         |   √   | [Excel](https://github.com/Vit-Orm/Vitorm.Excel)     |  [![](https://img.shields.io/nuget/v/Vitorm.Excel.svg)](https://www.nuget.org/packages/Vitorm.Excel) ![](https://img.shields.io/nuget/dt/Vitorm.Excel.svg)   |
-| File          |   ×   |      |      |
+| File          |   √   | [File](https://github.com/Vit-Orm/Vitorm.File)     |  [![](https://img.shields.io/nuget/v/Vitorm.File.svg)](https://www.nuget.org/packages/Vitorm.File) ![](https://img.shields.io/nuget/dt/Vitorm.File.svg)   |
 | Memory        |   ×   |      |      |
 | Oracle        |   ×   |      |      |
 
